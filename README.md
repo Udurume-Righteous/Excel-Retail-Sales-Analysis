@@ -1,8 +1,7 @@
-# Case Study: Excel Retail Sales Analysis
+# Excel-Retail-Sales-Analysis
 
 ## Project Overview  
-Using Microsoft Excel, I transformed a year’s worth of retail transaction data into a multi-layered business intelligence solution.  
-Spanning over 1,000 customers, 2,514 items sold, and 456,000 in revenue, the dataset allowed me to explore customer behavior, sales performance, product trends, and seasonal patterns—all structured through pivot logic, working sheets, and visual dashboards.
+This Excel project analyzes one year of retail transactions to reveal key patterns in customer behavior, product performance, and seasonal trends. Through the use of pivot tables, calculated columns, and interactive dashboards, it delivers clear insights into sales volume, revenue drivers, and demographic segments, forming a complete business intelligence report.
 
 ## Dataset Summary  
 The dataset represents individual transactions across Beauty, Clothing, and Electronics categories between January and December 2023.
